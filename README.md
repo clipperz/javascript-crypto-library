@@ -2,9 +2,9 @@
 
 The JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions. The library aims to obtain maximum execution speed while preserving modularity and reusability. 
 
-ALL the code included in this project, if not otherwise stated, is released with the **AGPL v.3 license**  (see `LICENSE.txt`), and all rights are reserved to Clipperz Srl.
+ALL the code included in this project, if not otherwise stated, is released with the **BSD 3-Clause License** (see `LICENSE.txt`), and all rights are reserved to Clipperz Srl.
 
-For any use not allowed by the AGPL license, please [contact us][contact] to inquire about licensing options for commercial applications.
+For any use not allowed by the license, please [contact us][contact].
 
 
 ## Features
@@ -43,12 +43,12 @@ The CA establishes a joint copyright assignment in which the contributor retains
 Please [download][CA] and review the Contributor Agreement for a complete understanding of its terms and conditions. You may send your signed and completed CA to Clipperz by scanning your completed form and emailing the image or by fax. Please retain a copy for your records. **Thanks!**
 
 [icon]: http://0.gravatar.com/avatar/2a9fae49ced80a42830a206f88ea1022?size=100
-[clipperz]: http://www.clipperz.com 
-[contact]: http://clipperz.com/contact
-[zkwa]: http://clipperz.com/users/marco/blog/2007/08/24/anatomy_zero_knowledge_web_application
+[clipperz]: https://clipperz.is 
+[contact]: https://clipperz.is/contact
+[zkwa]: https://clipperz.is/users/marco/blog/2007/08/24/anatomy_zero_knowledge_web_application
 [walker]: http://www.fourmilab.ch/javascrypt/
 [veness]: http://www.movable-type.co.uk/
 [johnston]: http://pajhome.org.uk/
 [baird]: http://www.leemon.com
-[CA]: http://www.clipperz.com/open_source/contributor_agreement
+[CA]: https://clipperz.is/open_source/contributor_agreement
 

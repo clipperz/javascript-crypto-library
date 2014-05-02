@@ -1,29 +1,24 @@
 /*
 
-Copyright 2008-2011 Clipperz Srl
+Copyright 2008-2014 Clipperz Srl - All rights reserved.
 
 This file is part of Clipperz's Javascript Crypto Library.
 
-The Javascript Crypto Library provides web developers with an extensive and 
-efficient set of cryptographic functions.
+The Javascript Crypto Library provides web developers with an extensive 
+and efficient set of cryptographic functions.
 For further information about its features and functionalities please
-refer to http://www.clipperz.com
+refer to https://clipperz.is
 
 * The Javascript Crypto Library is free software: you can redistribute
-  it and/or modify it under the terms of the GNU Affero General Public
-  License as published by the Free Software Foundation, either version
-  3 of the License, or (at your option) any later version.
+  it and/or modify it under the terms of the BSD 3-Clause License
+  as published by the Free Software Foundation.
 
-* The Javascript Crypto Library is distributed in the hope that it will
-  be useful, but WITHOUT ANY WARRANTY; without even the implied
-  warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-  See the GNU Affero General Public License for more details.
-
-* You should have received a copy of the GNU Affero General Public
-  License along with Javascript Crypto Library.  If not, see
-  <http://www.gnu.org/licenses/>.
+* You should have received a copy of the BSD 3-Clause License
+  along with the Javascript Crypto Library in the LICENSE.TXT file. 
+  If not, see <http://www.gnu.org/licenses/>.
 
 */
+
 
 if (typeof(Clipperz) == 'undefined') { Clipperz = {}; }
 if (typeof(Clipperz.Base) == 'undefined') { Clipperz.Base = {}; }
