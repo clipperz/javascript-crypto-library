@@ -50,5 +50,5 @@ Please [download][CA] and review the Contributor Agreement for a complete unders
 [veness]: http://www.movable-type.co.uk/
 [johnston]: http://pajhome.org.uk/
 [baird]: http://www.leemon.com
-[CA]: https://clipperz.is/open_source/contributor_agreement
+[CA]: https://clipperz.is/contributor_agreement/
 
